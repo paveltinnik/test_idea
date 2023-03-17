@@ -4,7 +4,6 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 
 import java.util.Calendar;
-import java.util.Date;
 
 @Getter
 @AllArgsConstructor
